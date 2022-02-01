@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:checked="true"
+            android:icon="@android:drawable/star_on"
+            android:title="@string/list_dia" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@android:drawable/star_on"
+            android:title="@string/add_mov_text" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@android:drawable/star_on"
+            android:title="@string/expense_month_text" />
+        <item
+            android:id="@+id/item4"
+            android:icon="@android:drawable/star_on"
+            android:title="@string/expense_ctg_text" />
+        <item
+            android:id="@+id/item5"
+            android:icon="@android:drawable/star_on"
+            android:title="@string/edit_cat" />
+    </group>
+</menu>

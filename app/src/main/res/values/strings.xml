@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyWonderfulMoneyControl_v2</string>
+    <string name="opciones">OPTIONS</string>
+    <string name="mov_text">MOVEMENTS</string>
+    <string name="day_text">DAY:</string>
+    <string name="month_text">MONTH:</string>
+    <string name="year_text">YEAR:</string>
+    <string name="title_text">TITLE:</string>
+    <string name="type_text">TYPE:</string>
+    <string name="cat_text">CATEGORY:</string>
+    <string name="amount_text">AMOUNT:</string>
+    <string name="date_text">ADD DATE</string>
+    <string name="desc_image">tickets</string>
+    <string name="accept_text">ACCEPT</string>
+    <string name="cancel_text" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="url_text">https://boticariagarcia.com/wp-content/uploads/2019/01/UPSRTC-printed-ticket.jpg</string>
+    <string name="add_photo_text">ADD PHOTO</string>
+    <string name="date">Date</string>
+    <string name="amount_label_text">AMOUNT (€):</string>
+    <string name="search_text">SEARCH</string>
+    <string name="permission_granted">Access to camera granted</string>
+    <string name="mensaje_no_result">No expenses found</string>
+    <string name="add_text">ADD</string>
+    <string name="del_text">CLICK CATEGORY TO DELETE</string>
+    <string name="edit_text">EDIT</string>
+    <string name="intro_new_catg">Intro new category</string>
+    <string name="categoryName">Category</string>
+    <string name="ok_text">OK</string>
+    <!-- nueva versión -->
+    <string name="txtHeader3">icon here</string>
+    <string name="txtHeader1">My Wonderful Money Control - V 2.0</string>
+    <string name="txtHeader2">David Marhuenda</string>
+    <string name="txtHeader4">Programación Multimedia y Dispositivos Móviles</string>
+    <string name="list_dia">DAILY LIST</string>
+    <string name="add_mov_text">ADD MOVEMENT</string>
+    <string name="expense_month_text">EXPENSES PER MONTH/YEAR</string>
+    <string name="expense_ctg_text">EXPENSES PER CATEGORY</string>
+    <string name="edit_cat">EDIT CATEGORIES</string>
+    <string name="txt_open">Open</string>
+    <string name="txt_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_txt">Welcome to My Wonderful Money Control,
+        the app that will help you to manage your expenses in an easy way.</string>
+    <string name="lets_txt">LET\'S START!</string>
+</resources>
